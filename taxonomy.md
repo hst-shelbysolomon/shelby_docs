@@ -42,6 +42,7 @@
     * Guild to set standards so we don't go off in different directions on doc process?
     * Check-in process?
     * Documentation changelogs?
+    * Approval process?
 
 ## Runbook suggestions
 A good outline for a software engineering group runbook for onboarding new employees/engineers would include the following sections:
