@@ -2,6 +2,7 @@
 ## Taxonomy/Ontology Example
 
 * Administrative & HR
+  * Org chart
   * Links to ADP, SharePoint, etc.
   * Points of contact
 * New Engineer Onboarding
