@@ -33,6 +33,9 @@
   * InterOps
   * ...
 * Documentation Process
+  * Best practices
+    * New documentation templates
+      * Various templates designed by the guild (or whomever)
   * Editing & Changes
   * Review & Approval
     * Guild to set standards so we don't go off in different directions on doc process?
