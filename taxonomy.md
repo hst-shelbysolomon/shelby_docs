@@ -18,6 +18,7 @@
   * Case Coordination
     * Department structure, key people and contacts
     * Links to repositories and READMEs
+    * Changelogs (technical)
     * ERD
     * Architecture docs
       * Data flows, process, flowcharts...
@@ -39,3 +40,5 @@
   * Editing & Changes
   * Review & Approval
     * Guild to set standards so we don't go off in different directions on doc process?
+    * Check-in process?
+    * Documentation changelogs?
