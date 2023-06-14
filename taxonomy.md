@@ -34,7 +34,7 @@
   * ...
 * Documentation Process
   * Best practices
-    * New documentation templates
+    * Documentation templates (TBD)
       * Various templates designed by the guild (or whomever)
   * Editing & Changes
   * Review & Approval
