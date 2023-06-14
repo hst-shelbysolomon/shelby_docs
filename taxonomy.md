@@ -1,3 +1,6 @@
+# Documentation Guild
+## Taxonomy/Ontology Example
+
 * Administrative & HR
   * Links to ADP, SharePoint, etc.
   * Points of contact
@@ -15,9 +18,12 @@
     * ERD
     * Architecture docs
     * Glossary of terms
+    * Common troubleshooting
+    * Support, alerts, and alarms runbook
   * Practice Management
   * InterOps
   * ...
 * Documentation Process
   * Editing & Changes
   * Review & Approval
+    * Guild to set standards so we don't go off in different directions on doc process?
