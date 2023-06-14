@@ -8,6 +8,8 @@
   * Git flow
   * Our tools (JIRA, Confluence, Lucidchart, etc.)
   * Introduction to healthcare/ASC terminology
+    * Glossary
+    * Things like HL7... CPT codes... ICD-10... and so on
 * HST engineering best practices
   * API design
     * Versioning, URL formats, etc.
@@ -17,9 +19,15 @@
     * Links to repositories and READMEs
     * ERD
     * Architecture docs
+      * Data flows, process, flowcharts...
     * Glossary of terms
+      * Terms that may be unique to this team/product
     * Common troubleshooting
     * Support, alerts, and alarms runbook
+      * Monitoring systems (AWS, New Relic, etc.)
+      * PagerDuty rotation & escalation
+      * Response policy
+      * What does _this_ AWS message mean?
   * Practice Management
   * InterOps
   * ...
